@@ -6,10 +6,10 @@
 // $db   = "cee_db";
 // $conn = null;
 // remte server
-$host = "remotemysql.com";
-$user = "i3oNlFxf56";
-$pass = "AzndNm1JR6";
-$db   = "i3oNlFxf56";
+$host = "sql6.freesqldatabase.com";
+$user = "sql6506158";
+$pass = "NlGXYr6ngC";
+$db   = "sql6506158";
 $conn = null;
 
 try {
